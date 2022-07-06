@@ -5,7 +5,7 @@ django>=2.0.10
 -e git+https://github.com/dmitryU/django-telegrambot.git@73a8bada7598d86d7094146133a06167db2da300#egg=django_telegrambot
 future==0.16.0
 idna==2.7
-lxml==4.2.3
+lxml==4.9.1
 psycopg2==2.7.5
 python-telegram-bot==10.1.0
 pytz==2018.5
